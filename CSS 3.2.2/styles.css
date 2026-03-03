@@ -1,0 +1,21 @@
+p {
+    color: rgb(134, 3, 3);
+    font-size: 20px;
+}
+body {
+    background-color:rgb(165, 164, 164);
+}
+div {
+    background-color: rgba(191, 193, 194, 0.863);
+    border-radius:20px;
+    padding: 5px;
+    margin: 50px;
+}
+.info {
+    color: rgba(63, 12, 12, 0.822);
+    font-size: 25px;
+}
+#warning {
+    color: rgba(63, 12, 12, 0.822);
+    font-size: 30px;
+}
