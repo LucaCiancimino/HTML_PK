@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(175, 175, 175);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    width: 350px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 1);
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(133, 26, 26);
+    color: aliceblue;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0 auto 20px;
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+.subtitle {
+    color: brown;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.tags span {
+    background-color: rgb(109, 109, 109);
+    color: aliceblue;
+    padding: 8px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 13px;
+}
+
+button {
+    background-color: rgb(133, 26, 26);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
