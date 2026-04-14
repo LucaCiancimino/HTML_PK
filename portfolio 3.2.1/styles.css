@@ -1,14 +1,22 @@
 h1 {
     text-align: center;
-    color: rgb(138, 37, 37);
+    color: rgb(97, 11, 11);
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
 
+h2 {
+    text-align: center;
+    color: brown;
+}
 p {
     text-align: center;
-    color: rgb(141, 38, 38);
+    color: rgb(4, 10, 90);
     font-size: 18px;
     font-family: Georgia, 'Times New Roman';
 }
+
+a {
+    text-align: center;
+} 
